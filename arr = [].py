@@ -1,0 +1,3 @@
+arr = []
+
+print(len(arr))
